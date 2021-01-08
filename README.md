@@ -1,5 +1,5 @@
 # AI-music-gen
-Here's my music generator. The encoding script, model, and dataset are in this repository. Then, I used python (Google Colab) to train the model because of the free GPU.
+Here's my music generator. The encoding script, model, and dataset are in this repository. Then, I used python (Google Colab) to train the model because of the free GPU. Check out that part of the code [here](https://colab.research.google.com/drive/1FLmNu19Dgjz87F0KqvZPsJnl9RhKOe7Z?usp=sharing).
 
 For more info, check out [n8's video](https://www.youtube.com/watch?v=sIwHcSgpN7o).
 
